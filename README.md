@@ -1,11 +1,9 @@
-## Hi, I am Jaabir Adeniji-Bello! 
+# Hi, I am Jaabir Adeniji-Bello! 
 </br>
 
  <div>
   <a href="https://github.com/Tolubori07">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolubori07&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolubori07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolubori07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=tolubori07&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" /></div>
  
  ## Skills
 <div align="left">
