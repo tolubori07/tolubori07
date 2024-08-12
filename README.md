@@ -1,9 +1,13 @@
 # Hi, I am Jaabir Adeniji-Bello! 
+I like writing code, cats, basketball, neovim and unix systems
+</br>
 ![typing](https://github.com/user-attachments/assets/0f7afad8-2929-45c9-9593-d02bdc2773ae)
 
 </br>
-## Github Stats📊 
-![ ](https://github-readme-streak-stats.herokuapp.com/?user=tolubori07&theme=tokyonight&hide_border=false)<br/>
+
+# Github Stats📊 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tolubori07&theme=tokyonight-duo&border_radius=20)](https://git.io/streak-stats)
+
  <div>
   <a href="https://github.com/Tolubori07">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolubori07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=tolubori07&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" /></div>
