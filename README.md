@@ -42,6 +42,10 @@ I like writing code, cats, basketball, neovim and unix systems
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="php logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="php logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="php logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qwikjs/qwik-original.svg" height="30" alt="php logo"  />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="php logo"  />
+
+
 </div><img align="right" height="220" src="https://pbs.twimg.com/media/Fv4Ad_9aYAAmblz?format=jpg&name=large"  />
   
 </div>
