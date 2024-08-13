@@ -14,7 +14,7 @@ I like writing code, cats, basketball, neovim and unix systems
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolubori07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=tolubori07&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" /></div>
  
  ## Skills
-<div align="left" style="background-color:#dfe5f2;">
+<div align="left" background-color="#dfe5f2">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -42,8 +42,9 @@ I like writing code, cats, basketball, neovim and unix systems
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="php logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="php logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="php logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qwikjs/qwikjs-original.svg" height="30" alt="php logo"  />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="php logo"  />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="php logo"  />
+
 
 
 </div><img align="right" height="220" src="https://pbs.twimg.com/media/Fv4Ad_9aYAAmblz?format=jpg&name=large"  />
