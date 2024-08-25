@@ -8,7 +8,7 @@
 
 # Github Stats📊 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tolubori07&theme=tokyonight-duo&border_radius=20)](https://git.io/streak-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  <div>
   <a href="https://github.com/Tolubori07">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolubori07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=tolubori07&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" /></div>
