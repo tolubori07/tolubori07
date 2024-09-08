@@ -11,10 +11,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tolubori07&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
  <div>
   <a href="https://github.com/Tolubori07">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolubori07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=tolubori07&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" /></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolubori07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=tolubori07&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
+  <a href="https://github.com/tolubori07/bonk">
+    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolubori07&repo=bonk&line_height=20&theme=tokyo-night" />
+  </a>
+  </div>
  
  ## Skills
-<div align="left" background-color="#7071d1">
+<div align="left" style="background-color:#7071d1">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
