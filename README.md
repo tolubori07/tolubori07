@@ -15,7 +15,7 @@
   <a href="https://github.com/tolubori07/bonk">
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolubori07&repo=bonk&line_height=20&theme=tokyonight" />
        <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolubori07&repo=bonkz&line_height=20&theme=tokyonight" />
-             <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolubori07&repo=bonkz&line_height=20&theme=tokyonight" />
+             <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolubori07&repo=bonkitor&line_height=20&theme=tokyonight" />
   </a>
   </div>
  
