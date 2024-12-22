@@ -12,15 +12,6 @@
  <div>
   <a href="https://github.com/Tolubori07">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolubori07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=tolubori07&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
-  <a href="https://github.com/tolubori07/bonk">
-    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolubori07&repo=bonk&line_height=20&theme=tokyonight" />
-    </a>
-     <a href="https://github.com/tolubori07/bonkz">
-       <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolubori07&repo=bonkz&line_height=20&theme=tokyonight" />
-          </a>
-  <a href="https://github.com/tolubori07/bonkitor">
-             <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolubori07&repo=bonkitor&line_height=20&theme=tokyonight" />
-     </a>
   </div>
  
  ## Skills
@@ -52,13 +43,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="php logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="php logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="php logo"  />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="php logo"  />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="php logo"  />
-
-
-
-</div><img align="right" height="220" src="https://pbs.twimg.com/media/Fv4Ad_9aYAAmblz?format=jpg&name=large"  />
-  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="php logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="php logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="30" alt="php logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="php logo"  />  
 </div>
   
 </br>
