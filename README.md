@@ -11,7 +11,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tolubori07&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
  <div>
   <a href="https://github.com/Tolubori07">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolubori07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=tolubori07&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolubori07&theme=tokyonight&show_icons=true&hide_border=true&layout=donut&langs_count=10&exclude_repo=studybud,zaggi,slope-deflection-method" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=tolubori07&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
   </div>
  
  ## Skills
